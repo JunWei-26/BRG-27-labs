@@ -1,6 +1,6 @@
 # BRG-27 - Introduction to Server Environments and Architecture (ISEA)
 
-## 📌 Overview
+# Overview
 
 This repository documents my learning journey in the BRG-27 course, focusing on server environments, Linux fundamentals, cloud deployment, system automation, and basic web hosting. The labs are performed using both VirtualBox and AWS EC2.
 ---
